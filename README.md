@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Rachel!](https://rmill1.github.io/)
+### Hello World 👋 It's [Rachel!](https://www.linkedin.com/in/rmmiller1/)
 
 <br/>
 
