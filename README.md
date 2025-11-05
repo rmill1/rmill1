@@ -19,7 +19,8 @@ Hi, I'm Rachel! I'm a computer science teacher, musician, and all-around learnin
 I was a music major in college, and one of my favorite things to still do now is play in community music ensembles. When not working, you'll probably find me playing French horn or trombone in a pit orchestra for a community musical theatre production or local community orchestra 📯🎵
 
 **Languages and Tools:**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,sklearn,ai,p5js)](https://skillicons.dev)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
