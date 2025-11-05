@@ -10,17 +10,14 @@
 
 <br />
 
-Hi, I'm Rachel Miller, a computer science teacher, musician, and all-around learning enthusiast.
-
 **About Me:**
 
+Hi, I'm Rachel! I'm a computer science teacher, musician, and all-around learning enthusiast. I've held a lot of roles in my career - music teacher, tech integrationist, instructional designer, computer science teacher - and the projects featured here are some of what I've worked on over the last handful of years, for fun, for my students, or for deepening my own learning!
 
-
-**Community**
-
+**Other Nerdy Things I do**
+I was a music major in college, and one of my favorite things to still do now is play in community music ensembles. When not working, you'll probably find me playing French horn or trombone in a pit orchestra for a community musical theatre production or local community orchestra 📯🎵
 
 **Languages and Tools:**
-
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
