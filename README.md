@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Rachel!](https://www.linkedin.com/in/rmmiller1/)
+### 👋 Hi, I'm [Rachel!](https://www.linkedin.com/in/rmmiller1/)!
 
 <br/>
 
@@ -19,6 +19,3 @@ I was a music major in college, and one of my favorite things to still do now is
 <a href="https://www.linkedin.com/in/rmmiller1/">
 <img align="left" alt="Rachel Miller LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br />
-
-<br />
