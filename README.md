@@ -14,7 +14,8 @@
 
 Hi, I'm Rachel! I'm a computer science teacher, musician, and all-around learning enthusiast. I've held a lot of roles in my career - music teacher, tech integrationist, instructional designer, computer science teacher - and the projects featured here are some of what I've worked on over the last handful of years, for fun, for my students, or for deepening my own learning!
 
-**Other Nerdy Things I do**
+**Other Nerdy Things I do:**
+
 I was a music major in college, and one of my favorite things to still do now is play in community music ensembles. When not working, you'll probably find me playing French horn or trombone in a pit orchestra for a community musical theatre production or local community orchestra 📯🎵
 
 **Languages and Tools:**
