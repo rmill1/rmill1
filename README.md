@@ -4,7 +4,7 @@
 
 **About Me:**
 
-I'm a computer science teacher, musician, and all-around learning enthusiast. I've held a lot of roles in my career - music teacher, tech integrationist, instructional designer, computer science teacher - and the projects featured here are some of what I've worked on over the last handful of years, for fun, for my students, or for deepening my own learning!
+I'm a educator, program manager, musician, and all-around learning enthusiast. I've held a lot of roles in my career - music teacher, tech integrationist, instructional designer, computer science teacher - and the projects featured here are some of what I've worked on over the last handful of years, for fun, for my students, or for deepening my own learning!
 
 **Other Nerdy Things I do:**
 
